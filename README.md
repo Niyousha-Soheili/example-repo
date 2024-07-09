@@ -1,2 +1,2 @@
 # Example Repository
-This is a test, Hello World!
+This is a sample repo, Hello World!
